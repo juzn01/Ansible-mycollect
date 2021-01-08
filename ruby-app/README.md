@@ -1,3 +1,6 @@
+## folk from  
+https://github.com/Voronenko/devops-ruby-app-demo
+
 ## Introduction
 
 Novadays, you can get your own dedicated server up and running in a seconds. Once you get it up, do you really spent several hours to configure it for your application needs ?  Do you really want to repeat the same steps with each new server ?  In this article I will give you an idea on automated installation with Ansible, a Simple IT Automation toolkit and Ubuntu 14.04 LTS server as box OS.
